@@ -36,7 +36,7 @@ console.log(uniqueList);
    
   return(
     <>
-     <Header/>
+     
       <Navbar filterItem={filterItem} menuList={menuList} />
       <MenuCard menuData = {menuData} />
       
